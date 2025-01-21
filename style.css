@@ -130,7 +130,7 @@ main {
    margin-right: 15px;
 }
 .card .heart::before {
-   content: "\2764"; /* Unicode for heart symbol */
+   content: "\2764"; 
    color: #e74c3c; /* Red color for heart */
    margin-right: 5px;
 }
